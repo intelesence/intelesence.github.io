@@ -1,2 +1,2 @@
-# intelesence.github.io
-practice website
+# intelesence.github.com
+practice
